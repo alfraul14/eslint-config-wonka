@@ -1,8 +1,7 @@
-import configWonka from "./config/wonka-js.js"
+import configWonka from "./config/wonka-js.js";
 
+const eslintConfigWonka = {
+  js: configWonka,
+};
 
-const eslintConfigWonka ={
-    js: configWonka
-}
-
-export default eslintConfigWonka
+export default eslintConfigWonka;
