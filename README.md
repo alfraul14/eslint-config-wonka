@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  🐦‍🔥 Wonka's ESLint + Prettier configuration
+  🐦‍🔥 Wonka's ESLint + Prettier configuration 🚀
 </h1>
 
 
