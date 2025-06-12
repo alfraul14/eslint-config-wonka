@@ -27,7 +27,7 @@
     "url": "https://github.com/alfraul14/eslint-config-wonka/issues"
   },
   "homepage": "https://github.com/alfraul14/eslint-config-wonka#readme",
-  "devDependencies": {
+  "dependencies": {
     "@babel/core": "^7.27.4",
     "@babel/eslint-parser": "^7.27.5",
     "@eslint/js": "^9.28.0",

@@ -1,8 +1,9 @@
+import { defineConfig } from "eslint-define-config";
 import eslintPluginCheckFile from "eslint-plugin-check-file";
 
 import wonkaTs from "./wonka-ts.js";
 
-export default [
+export default defineConfig([
 	...wonkaTs,
 	{
 		ignores: [
@@ -62,4 +63,4 @@ export default [
 			],
 		},
 	},
-];
+]);
