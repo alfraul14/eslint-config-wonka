@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  💡Opinionated linting configuration that embraces modern TypeScript best practices and ensures consistent import statements across your JavaScript or TypeScript projects. Perfect for keeping your codebase clean and maintainable🚁
+  ⚙️Opinionated linting configuration that embraces modern TypeScript best practices and ensures consistent import statements across your JavaScript or TypeScript projects. Perfect for keeping your codebase clean and maintainable🚁
   <br />
   <br /> 
 </p>
