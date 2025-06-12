@@ -1,3 +1,3 @@
 import eslintConfigWonka from "./index.js";
 
-export default [...eslintConfigWonka.ts];
+export default [...eslintConfigWonka.full];
