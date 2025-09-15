@@ -64,7 +64,7 @@ export default defineConfig([
 			"no-param-reassign": "error",
 			"no-return-assign": "error",
 			"no-throw-literal": "error",
-			"no-magic-numbers": "error",
+			"no-magic-numbers": ["error", { ignore: [0, 1] }],
 			"no-var": "error",
 			"object-shorthand": "error",
 			"prefer-const": "error",
