@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/alfraul14/eslint-config-wonka/compare/v1.1.0...v1.1.1) (2025-09-15)
+
+
+### Bug Fixes
+
+* magic numbers ignore[0, 1] ([29d5e7b](https://github.com/alfraul14/eslint-config-wonka/commit/29d5e7b37c55bb684b8ed44ba50859604f1d5ec7))
+
 ## [1.1.0](https://github.com/alfraul14/eslint-config-wonka/compare/v1.0.0...v1.1.0) (2025-06-12)
 
 
