@@ -33,7 +33,7 @@
        }
    ]
    ```
-
+    
    Also, you can use the `full` config, which includes the `js`, `ts` :
 
    ```js
@@ -50,7 +50,15 @@
 
 
 > [!NOTE]  
-> Some rules enabled by default require `strict: true` to be set in your `tsconfig.json`.
+> Some rules enabled by default require `strict: true` to be set in your `tsconfig.json`.  
+> You should also install the **Prettier** extension if you want to see errors.  
+> To automatically format changes on save, you need to use the following settings in your user `settings.json`:
+
+```json
+"editor.formatOnSave": true,
+"editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+}
 
 ## 🤔 What it does
 
