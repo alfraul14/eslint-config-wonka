@@ -1,10 +1,9 @@
-import { defineConfig } from "eslint-define-config";
 import eslintPluginImportX from "eslint-plugin-import-x";
 import tseslint from "typescript-eslint";
 
 import wonkaJs from "./wonka-js.js";
 
-export default defineConfig([
+export default [
 	...wonkaJs,
 	...tseslint.configs.recommended,
 	eslintPluginImportX.configs.typescript,
@@ -103,4 +102,4 @@ export default defineConfig([
 			"@typescript-eslint/no-unused-vars": ["off"],
 		},
 	},
-]);
+];

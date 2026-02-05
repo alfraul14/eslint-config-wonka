@@ -1,13 +1,12 @@
 import babelParser from "@babel/eslint-parser";
 import eslintJS from "@eslint/js";
-import { defineConfig } from "eslint-define-config";
 import importXPlugin from "eslint-plugin-import-x";
 import eslintPluginPrettierRecommended from "eslint-plugin-prettier/recommended";
 import simpleImportSortPlugin from "eslint-plugin-simple-import-sort";
 import unusedImportsPlugin from "eslint-plugin-unused-imports";
 import globals from "globals";
 
-export default defineConfig([
+export default [
 	eslintJS.configs.recommended,
 	eslintPluginPrettierRecommended,
 	{
@@ -95,4 +94,4 @@ export default defineConfig([
 			],
 		},
 	},
-]);
+];

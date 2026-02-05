@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-wonka",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Eslint and Prettier config ",
   "type": "module",
   "main": "index.js",
@@ -33,7 +33,6 @@
     "@eslint/js": "9.28.0",
     "eslint": "9.28.0",
     "eslint-config-prettier": "10.1.5",
-    "eslint-define-config": "2.1.0",
     "eslint-plugin-check-file": "3.3.0",
     "eslint-plugin-import-x": "4.15.2",
     "eslint-plugin-prettier": "5.4.1",
