@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.2](https://github.com/alfraul14/eslint-config-wonka/compare/v1.1.1...v1.1.2) (2026-02-05)
+
+
+### Bug Fixes
+
+* address vulnerabilities and remove deprecated libraries ([9789e37](https://github.com/alfraul14/eslint-config-wonka/commit/9789e37b89d1f47ae13051f704b3c95f6270467f))
+* package version ([8a795cf](https://github.com/alfraul14/eslint-config-wonka/commit/8a795cf4bb7dd58f5d684110d082a8985f992fcf))
+
 ## [1.1.1](https://github.com/alfraul14/eslint-config-wonka/compare/v1.1.0...v1.1.1) (2025-09-15)
 
 
