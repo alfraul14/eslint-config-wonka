@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/alfraul14/eslint-config-wonka/compare/v1.2.0...v1.3.0) (2026-02-05)
+
+
+### Features
+
+* oidc trusted publisher ([867e2f8](https://github.com/alfraul14/eslint-config-wonka/commit/867e2f85b542a83f3165bb03e1b0c14924663124))
+
 ## [1.2.0](https://github.com/alfraul14/eslint-config-wonka/compare/v1.1.3...v1.2.0) (2026-02-05)
 
 
