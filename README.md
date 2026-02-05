@@ -59,7 +59,7 @@
 "editor.codeActionsOnSave": {
     "source.fixAll.eslint": "explicit"
 }
-
+```
 ## 🤔 What it does
 
 - Lints JavaScript using [
