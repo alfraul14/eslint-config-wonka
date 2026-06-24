@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.1](https://github.com/alfraul14/eslint-config-wonka/compare/v1.3.0...v1.3.1) (2026-06-24)
+
+
+### Bug Fixes
+
+* vulnerabilities ([99bf058](https://github.com/alfraul14/eslint-config-wonka/commit/99bf058d6bfec911a78b76701e52ff45f6a41360))
+
 ## [1.3.0](https://github.com/alfraul14/eslint-config-wonka/compare/v1.2.0...v1.3.0) (2026-02-05)
 
 
