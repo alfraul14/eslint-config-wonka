@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.5](https://github.com/alfraul14/eslint-config-wonka/compare/v1.3.4...v1.3.5) (2026-10-13)
+
+
+### Bug Fixes
+
+* update setup-node action to v6 ([99081bf](https://github.com/alfraul14/eslint-config-wonka/commit/99081bf5bde09e6d5a3cda317415e58c19391350))
+
 ## [1.3.4](https://github.com/alfraul14/eslint-config-wonka/compare/v1.3.3...v1.3.4) (2026-10-13)
 
 
